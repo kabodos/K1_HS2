@@ -107,3 +107,12 @@ managed_services: klipper
 # NOTE: type: web is used instead of type: zip as a workaround for
 # mainsail-crew/mainsail#2444 (zip type always shows UP-TO-DATE).
 # A systemd path unit handles service restart after Moonraker extracts the update.
+[update_manager helixscreen]
+type: web
+channel: stable
+repo: prestonbrown/helixscreen
+path: /usr/data/helixscreen
+persistent_files:
+    config/helixconfig.json
+    config/helixscreen.env
+    config/.disabled_services
