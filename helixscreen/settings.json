@@ -36,6 +36,9 @@
   },
   "language": "en",
   "led": {
+    "auto_state": {
+      "enabled": null
+    },
     "selected_strips": null
   },
   "log_path": "/tmp/helixscreen.log",
@@ -178,7 +181,7 @@
             "temperature_sensor mcu_temp",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-06-22T18:08:53Z"
+          "timestamp": "2026-06-22T18:12:02Z"
         },
         "optional": []
       },
@@ -187,6 +190,9 @@
         "hotend": "extruder"
       },
       "leds": {
+        "auto_state": {
+          "mappings": null
+        },
         "color_presets": null,
         "last_brightness": null,
         "last_color": null,
