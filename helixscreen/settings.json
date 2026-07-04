@@ -13,7 +13,7 @@
     "rotate": 270,
     "rotation_probed": true,
     "sleep_sec": 1800,
-    "timezone": "America/Chicago"
+    "timezone": "America/Denver"
   },
   "gcode_viewer": {
     "shading_model": "phong",
