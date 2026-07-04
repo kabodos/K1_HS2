@@ -12,7 +12,8 @@
     "gcode_render_mode": 0,
     "rotate": 270,
     "rotation_probed": true,
-    "sleep_sec": 1800
+    "sleep_sec": 1800,
+    "timezone": "America/Chicago"
   },
   "gcode_viewer": {
     "shading_model": "phong",
