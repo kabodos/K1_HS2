@@ -138,7 +138,7 @@
             "type": "switch"
           },
           {
-            "enabled": true,
+            "enabled": false,
             "klipper_name": "filament_switch_sensor DXC",
             "role": "runout",
             "type": "switch"
