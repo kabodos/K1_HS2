@@ -134,7 +134,7 @@
           {
             "enabled": true,
             "klipper_name": "filament_switch_sensor filament_sensor",
-            "role": "none",
+            "role": "runout",
             "type": "switch"
           },
           {
@@ -183,7 +183,7 @@
             "temperature_sensor mcu_temp",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-07-14T02:12:36Z"
+          "timestamp": "2026-07-15T02:10:51Z"
         },
         "optional": []
       },
