@@ -11,6 +11,7 @@
     "drm_device": "",
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
+    "gpu_blur_blocked": false,
     "rotate": 270,
     "rotation_probed": true,
     "sleep_sec": 1800,
