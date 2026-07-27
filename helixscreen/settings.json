@@ -2,7 +2,7 @@
   "active_printer_id": "default",
   "brightness": 80,
   "completion_alert": true,
-  "config_version": 19,
+  "config_version": 20,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -38,12 +38,6 @@
     "touch_device": ""
   },
   "language": "en",
-  "led": {
-    "auto_state": {
-      "enabled": null
-    },
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 1
@@ -92,11 +86,6 @@
         "total": 189
       }
     ]
-  },
-  "printer": {
-    "leds": {
-      "startup_brightness": null
-    }
   },
   "printers": {
     "default": {
@@ -193,20 +182,11 @@
         "hotend": "extruder"
       },
       "leds": {
-        "auto_state": {
-          "mappings": null
-        },
-        "color_presets": null,
-        "last_brightness": null,
-        "last_color": null,
-        "last_white": null,
-        "led_on_at_start": null,
-        "macro_devices": null,
+        "auto_state": {},
         "selected": [],
         "selected_strips": [
           "output_pin LED"
         ],
-        "startup_brightness": null,
         "strip": "output_pin LED"
       },
       "moonraker_api_key": false,
@@ -501,9 +481,7 @@
           ]
         }
       },
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
