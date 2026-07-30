@@ -1,0 +1,41 @@
+[
+  {
+    "app_version": "0.99.3",
+    "fault_addr": "0x0",
+    "fault_code_name": "UNKNOWN",
+    "fingerprint": "SIGSEGV/0.99.3/0x74c790",
+    "github_issue": 547,
+    "github_url": "https://github.com/prestonbrown/helixscreen/issues/547",
+    "sent_via": "crash_reporter",
+    "signal": 11,
+    "signal_name": "SIGSEGV",
+    "timestamp": "2026-03-26T22:16:00Z",
+    "uptime_sec": 31
+  },
+  {
+    "app_version": "0.99.22",
+    "fault_addr": "",
+    "fault_code_name": "",
+    "fingerprint": "SIGSEGV/0.99.22/0xafbf84",
+    "github_issue": 0,
+    "github_url": "",
+    "sent_via": "telemetry",
+    "signal": 11,
+    "signal_name": "SIGSEGV",
+    "timestamp": "2026-04-06T18:51:35Z",
+    "uptime_sec": 192432373
+  },
+  {
+    "app_version": "0.99.53",
+    "fault_addr": "",
+    "fault_code_name": "",
+    "fingerprint": "SIGSEGV/0.99.53/0xb8b8d4",
+    "github_issue": 0,
+    "github_url": "",
+    "sent_via": "telemetry",
+    "signal": 11,
+    "signal_name": "SIGSEGV",
+    "timestamp": "2026-04-30T04:57:50Z",
+    "uptime_sec": 20506
+  }
+]
