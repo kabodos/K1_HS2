@@ -511,6 +511,13 @@
   "theme": {
     "preset": 0
   },
+  "thermal": {
+    "rates": {
+      "heater_bed": {
+        "heat_rate": 11.789021492004395
+      }
+    }
+  },
   "tour": {
     "completed": true,
     "last_seen_version": 1
