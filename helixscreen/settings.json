@@ -633,6 +633,7 @@
     }
   },
   "update": {
+    "channel": 0,
     "dismissed_version": "0.99.88"
   },
   "wifi_expected": false,
