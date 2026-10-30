@@ -535,6 +535,7 @@
           ]
         }
       },
+      "printer_name": "Creality K1",
       "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
