@@ -71,11 +71,11 @@ managed_services: klipper
 #aspect_ratio: 4:3
 
 # Remove '#' after this line if you use Timelapse function and replace port '4408' by '4409' in snapshoturl if you use Mainsail
-#[timelapse]
-#output_path: /usr/data/printer_data/timelapse/
-#frame_path: /usr/data/printer_data/frames/
-#ffmpeg_binary_path: /opt/bin/ffmpeg
-#snapshoturl: http://localhost:8080/?action=snapshot
+[timelapse]
+output_path: /usr/data/printer_data/timelapse/
+frame_path: /usr/data/printer_data/frames/
+ffmpeg_binary_path: /opt/bin/ffmpeg
+snapshoturl: http://localhost:8080/?action=snapshot
 
 # Remove '#' after this line if you use Fluidd
 #[update_manager fluidd]
@@ -105,3 +105,14 @@ managed_services: klipper
 # NOTE: type: web is used instead of type: zip as a workaround for
 # mainsail-crew/mainsail#2444 (zip type always shows UP-TO-DATE).
 # A systemd path unit handles service restart after Moonraker extracts the update.
+
+# HelixScreen Update Manager
+# Added by HelixScreen installer - enables one-click updates from Mainsail/Fluidd
+# NOTE: type: web is used instead of type: zip as a workaround for
+# mainsail-crew/mainsail#2444 (zip type always shows UP-TO-DATE).
+# A systemd path unit handles service restart after Moonraker extracts the update.
+[update_manager helixscreen]
+type: web
+channel: stable
+repo: prestonbrown/helixscreen
+path: /usr/data/helixscreen
