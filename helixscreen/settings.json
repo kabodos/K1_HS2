@@ -20,6 +20,7 @@
     "rotate": 270,
     "rotation_probed": true,
     "sleep_sec": 1800,
+    "theme": "yami",
     "timezone": "America/Denver"
   },
   "gcode_viewer": {
