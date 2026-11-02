@@ -62,7 +62,7 @@ snapshoturl = http://localhost:8080/?action=snapshot
 
 [update_manager helixscreen]
 type = web
-channel = stable
+channel = beta
 repo = prestonbrown/helixscreen
 path = /usr/data/helixscreen
 
