@@ -212,7 +212,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_56m36s.gcode\",\"job_id\":\"00011A\",\"object_height\":11.8,\"start_time\":1793594001.808912}",
+        "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_28m18s.gcode\",\"job_id\":\"00011B\",\"object_height\":8.4,\"start_time\":1793597532.7179291}",
         "outlines": "{\"filename\":\"sherpa_cutter_ABS_28m18s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -327,20 +327,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 0.961666666666723
+            "used_h": 1.0466666666667361
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 0.961666666666723
+            "used_h": 1.0466666666667361
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 0.961666666666723
+            "used_h": 1.0466666666667361
           }
         },
-        "total_h": 0.961666666666723
+        "total_h": 1.0466666666667361
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
