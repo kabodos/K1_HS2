@@ -19,7 +19,7 @@
     "gpu_blur_blocked": false,
     "rotate": 270,
     "rotation_probed": true,
-    "sleep_sec": 1800,
+    "sleep_sec": 0,
     "theme": "yami",
     "timezone": "America/Denver"
   },
