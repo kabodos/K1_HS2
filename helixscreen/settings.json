@@ -213,7 +213,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_56m36s.gcode\",\"job_id\":\"00011A\",\"object_height\":11.8,\"start_time\":1793594001.808912}",
-        "outlines": "{\"filename\":\"sherpa_cutter_ABS_56m36s.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"sherpa_cutter_ABS_28m18s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
