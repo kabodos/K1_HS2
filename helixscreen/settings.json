@@ -216,7 +216,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"brass_sensor_ABS_30m44s.gcode\",\"job_id\":\"000120\",\"object_height\":24.0,\"start_time\":1793701035.2626834}",
-        "outlines": "{\"filename\":\"brass_sensor_ABS_30m44s.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"sherpa_cutter_ABS_33m0s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
