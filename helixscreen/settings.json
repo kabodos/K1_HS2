@@ -216,8 +216,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_33m0s.gcode\",\"job_id\":\"000121\",\"object_height\":24.0,\"start_time\":1793739807.2241204}",
-        "outlines": "{\"filename\":\"sherpa_cutter_ABS_33m0s.gcode\",\"objects\":[]}"
+        "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_47m30s.gcode\",\"job_id\":\"000122\",\"object_height\":18.0,\"start_time\":1793744704.1271977}",
+        "outlines": "{\"filename\":\"sherpa_cutter_ABS_47m30s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
@@ -331,20 +331,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 5.001666666667354
+            "used_h": 5.00222222222291
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 5.001666666667354
+            "used_h": 5.00222222222291
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 5.001666666667354
+            "used_h": 5.00222222222291
           }
         },
-        "total_h": 5.001666666667354
+        "total_h": 5.00222222222291
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
