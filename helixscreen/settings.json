@@ -19,6 +19,7 @@
     "gpu_blur_blocked": false,
     "rotate": 270,
     "rotation_probed": true,
+    "screensaver_type": "highfly",
     "sleep_sec": 0,
     "theme": "yami",
     "timezone": "America/Denver"
