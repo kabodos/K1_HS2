@@ -302,7 +302,7 @@
             "temperature_sensor mcu_temp",
             "temperature_sensor chamber_temp"
           ],
-          "timestamp": "2026-11-03T10:04:36Z"
+          "timestamp": "2026-11-03T10:06:40Z"
         },
         "optional": []
       },
@@ -508,6 +508,7 @@
     "dismissed_version": "0.99.88",
     "moonraker_channel": "beta"
   },
+  "wifi_country_last_seen": "GB",
   "wifi_expected": false,
   "wizard_completed": true
 }
