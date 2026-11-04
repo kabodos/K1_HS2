@@ -217,7 +217,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"sherpa_cutter_ABS_51m29s.gcode\",\"job_id\":\"000123\",\"object_height\":20.2,\"start_time\":1793755797.2175016}",
         "outlines": "{\"filename\":\"sherpa_cutter_ABS_51m29s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
