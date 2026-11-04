@@ -497,10 +497,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.33196812868118286
+        "heat_rate": 0.32348594069480896
       },
       "heater_bed": {
-        "heat_rate": 14.771828651428223
+        "heat_rate": 8.594741821289063
       }
     }
   },
