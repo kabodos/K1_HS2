@@ -220,7 +220,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"RupertReindeer_PLA_9m51s.gcode\",\"job_id\":\"00012D\",\"object_height\":20.0,\"start_time\":1793860192.7826774}",
+        "last_occupied": "{\"filename\":\"snowman - ender5_PLA_24m2s.gcode\",\"job_id\":\"00012E\",\"object_height\":33.6,\"start_time\":1793862662.4936595}",
         "outlines": "{\"filename\":\"RupertReindeer_PLA_9m51s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
