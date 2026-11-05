@@ -228,7 +228,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"Frosty-NoAMS-K1 70%_PLA_25m17s.gcode\",\"job_id\":\"00013A\",\"object_height\":22.8,\"start_time\":1793919376.307095}",
         "outlines": "{\"filename\":\"Frosty-NoAMS-K1 70%_PLA_25m17s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -343,20 +343,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 17.60027777775997
+            "used_h": 17.643888888871228
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 17.60027777775997
+            "used_h": 17.643888888871228
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 17.60027777775997
+            "used_h": 17.643888888871228
           }
         },
-        "total_h": 17.60027777775997
+        "total_h": 17.643888888871228
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
