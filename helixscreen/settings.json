@@ -221,7 +221,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"Frosty-NoAMS-K1_PLA_1h7m.gcode\",\"job_id\":\"000133\",\"object_height\":48.8,\"start_time\":1793877701.04614}",
+        "last_occupied": "{\"filename\":\"Frosty-NoAMS-K1 70%_PLA_50m13s.gcode\",\"job_id\":\"000134\",\"object_height\":37.0,\"start_time\":1793895402.94623}",
         "outlines": "{\"filename\":\"Frosty-NoAMS-K1_PLA_1h7m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
