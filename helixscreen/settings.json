@@ -220,8 +220,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"snowman - ender5_PLA_24m2s.gcode\",\"job_id\":\"00012E\",\"object_height\":33.6,\"start_time\":1793862662.4936595}",
-        "outlines": "{\"filename\":\"RupertReindeer_PLA_9m51s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"snowman - ender5_PLA_24m2s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
