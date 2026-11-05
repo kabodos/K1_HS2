@@ -228,7 +228,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"Frosty-NoAMS-K1 70%_PLA_2h29m.gcode\",\"job_id\":\"000136\",\"object_height\":66.6,\"start_time\":1793903290.5054147}",
         "outlines": "{\"filename\":\"Frosty-NoAMS-K1 70%_PLA_2h29m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
