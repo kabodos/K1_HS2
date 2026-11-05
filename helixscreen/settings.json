@@ -222,7 +222,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"Frosty-NoAMS-K1_PLA_2h16m.gcode\",\"job_id\":\"000132\",\"object_height\":69.8,\"start_time\":1793877040.8413103}",
-        "outlines": "{\"filename\":\"Frosty-NoAMS-K1_PLA_2h16m.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"Frosty-NoAMS-K1_PLA_1h7m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
