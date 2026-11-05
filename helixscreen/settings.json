@@ -221,8 +221,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"snowman - ender5_PLA_24m2s.gcode\",\"job_id\":\"00012F\",\"object_height\":33.6,\"start_time\":1793863204.100724}",
-        "outlines": "{\"filename\":\"snowman - ender5_PLA_24m2s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"MK_Cubo_PLA_19m22s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
@@ -336,20 +336,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 10.876388888881298
+            "used_h": 10.9197222222145
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 10.876388888881298
+            "used_h": 10.9197222222145
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 10.876388888881298
+            "used_h": 10.9197222222145
           }
         },
-        "total_h": 10.876388888881298
+        "total_h": 10.9197222222145
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
