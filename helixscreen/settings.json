@@ -228,7 +228,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"schiaccianoci_PLA_1h35m.gcode\",\"job_id\":\"00013C\",\"object_height\":49.0,\"start_time\":1793923681.836561}",
         "outlines": "{\"filename\":\"schiaccianoci_PLA_1h35m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
