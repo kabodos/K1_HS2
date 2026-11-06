@@ -235,7 +235,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"MK_Cubo_PLA_15m39s.gcode\",\"job_id\":\"000140\",\"object_height\":29.96,\"start_time\":1793959929.6641455}",
         "outlines": "{\"filename\":\"MK_Cubo_PLA_15m39s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
