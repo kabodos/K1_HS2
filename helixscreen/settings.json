@@ -401,11 +401,11 @@
                   "rowspan": 4
                 },
                 {
-                  "col": 4,
+                  "col": -1,
                   "colspan": 8,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "tips",
-                  "row": 0,
+                  "row": -1,
                   "rowspan": 4
                 },
                 {
