@@ -242,7 +242,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"Nasal Dilator v4 XL Size_PLA_39m32s.gcode\",\"job_id\":\"000142\",\"object_height\":9.04,\"start_time\":1794002313.7750711}",
         "outlines": "{\"filename\":\"Nasal Dilator v4 XL Size_PLA_39m32s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
