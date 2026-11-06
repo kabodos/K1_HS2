@@ -242,8 +242,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"MK_Cubo_PLA_15m39s.gcode\",\"job_id\":\"000140\",\"object_height\":29.96,\"start_time\":1793959929.6641455}",
-        "outlines": "{\"filename\":\"MK_Cubo_PLA_15m39s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"Nasal Dilator v4 XL Size_PLA_39m32s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
