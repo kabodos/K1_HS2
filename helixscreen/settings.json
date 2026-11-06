@@ -228,7 +228,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"MK_Cubo_PLA_15m36s.gcode\",\"job_id\":\"00013D\",\"object_height\":29.96,\"start_time\":1793943813.5679817}",
+        "last_occupied": "{\"filename\":\"schiaccianoci_k1_PLA_2h28m.gcode\",\"job_id\":\"00013E\",\"object_height\":49.0,\"start_time\":1793947018.622062}",
         "outlines": "{\"filename\":\"MK_Cubo_PLA_15m36s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
