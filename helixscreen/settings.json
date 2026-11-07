@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"grande_FirstLayerCalibration_PLA_9m20s.gcode\",\"job_id\":\"00014A\",\"object_height\":0.2,\"start_time\":1794083811.8260887}",
         "outlines": "{\"filename\":\"grande_FirstLayerCalibration_PLA_9m20s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
