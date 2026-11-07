@@ -502,7 +502,10 @@
         "hotend": "extruder"
       },
       "type": "Creality K1",
-      "wizard_completed": true
+      "wizard_completed": true,
+      "z_offset": {
+        "step_index": 3
+      }
     },
     "show_printer_switcher": false
   },
