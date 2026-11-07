@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"schiaccianoci_k1_PLA_8m54s.gcode\",\"job_id\":\"000149\",\"object_height\":11.24,\"start_time\":1794077738.62371}",
-        "outlines": "{\"filename\":\"schiaccianoci_k1_PLA_8m54s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"grande_FirstLayerCalibration_PLA_9m20s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
@@ -369,20 +369,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 33.572500000015644
+            "used_h": 33.637222222237256
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 33.572500000015644
+            "used_h": 33.637222222237256
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 33.572500000015644
+            "used_h": 33.637222222237256
           }
         },
-        "total_h": 33.572500000015644
+        "total_h": 33.637222222237256
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
