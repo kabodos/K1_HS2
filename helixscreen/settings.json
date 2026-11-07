@@ -247,7 +247,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"flowrate_0_PLA_32m14s.gcode\",\"job_id\":\"000148\",\"object_height\":2.0,\"start_time\":1794072830.8152418}",
         "outlines": "{\"filename\":\"flowrate_0_PLA_32m14s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -362,20 +362,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 33.262777777796344
+            "used_h": 33.31083333335145
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 33.262777777796344
+            "used_h": 33.31083333335145
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 33.262777777796344
+            "used_h": 33.31083333335145
           }
         },
-        "total_h": 33.262777777796344
+        "total_h": 33.31083333335145
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
