@@ -369,20 +369,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 41.262777777720856
+            "used_h": 41.36277777771991
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 41.262777777720856
+            "used_h": 41.36277777771991
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 41.262777777720856
+            "used_h": 41.36277777771991
           }
         },
-        "total_h": 41.262777777720856
+        "total_h": 41.36277777771991
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
