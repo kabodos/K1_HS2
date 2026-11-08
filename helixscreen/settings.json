@@ -255,7 +255,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"Calibration cube v1_PLA_18m30s.gcode\",\"job_id\":\"000150\",\"object_height\":20.04,\"start_time\":1794125732.8972523}",
-        "outlines": "{\"filename\":\"Calibration cube v1_PLA_18m30s.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"Optimized with 5%infill-k1_PLA_1h40m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
