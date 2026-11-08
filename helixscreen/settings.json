@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"Calibration cube v1_PLA_18m30s.gcode\",\"job_id\":\"000150\",\"object_height\":20.04,\"start_time\":1794125732.8972523}",
         "outlines": "{\"filename\":\"Calibration cube v1_PLA_18m30s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
