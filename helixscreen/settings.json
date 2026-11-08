@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"spool propio_PETG_1h51m.gcode\",\"job_id\":\"000153\",\"object_height\":45.0,\"start_time\":1794162592.465626}",
         "outlines": "{\"filename\":\"spool propio_PETG_1h51m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
