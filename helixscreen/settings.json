@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"flowrate_0_PLA_49m29s.gcode\",\"job_id\":\"00014D\",\"object_height\":2.0,\"start_time\":1794115438.9054694}",
-        "outlines": "{\"filename\":\"flowrate_0_PLA_49m29s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"pa_pattern_100_1500_PLA_8m13s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
