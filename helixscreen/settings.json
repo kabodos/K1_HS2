@@ -255,7 +255,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"Optimized with 5%infill-k1_PLA_1h40m.gcode\",\"job_id\":\"000151\",\"object_height\":9.0,\"start_time\":1794127988.3093555}",
-        "outlines": "{\"filename\":\"Optimized with 5%infill-k1_PLA_1h40m.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"spool propio_PETG_1h51m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
