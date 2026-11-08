@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"flowrate_0_PLA_49m29s.gcode\",\"job_id\":\"00014C\",\"object_height\":2.0,\"start_time\":1794111495.7904847}",
         "outlines": "{\"filename\":\"flowrate_0_PLA_49m29s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
