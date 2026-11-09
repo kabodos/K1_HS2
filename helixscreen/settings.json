@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"MK_Cubo_PETG_22m21s.gcode\",\"job_id\":\"000155\",\"object_height\":22.0,\"start_time\":1794178855.7764618}",
+        "last_occupied": "{\"filename\":\"spool propio_fix_PETG_2h11m.gcode\",\"job_id\":\"000156\",\"object_height\":45.0,\"start_time\":1794181653.8789473}",
         "outlines": "{\"filename\":\"MK_Cubo_PETG_22m21s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
