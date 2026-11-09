@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"snowman - k1_PLA_2h13m.gcode\",\"job_id\":\"00015C\",\"object_height\":32.466,\"start_time\":1794195947.579034}",
         "outlines": "{\"filename\":\"snowman - k1_PLA_2h13m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
