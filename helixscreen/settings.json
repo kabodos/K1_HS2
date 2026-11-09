@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_3h24m.gcode\",\"job_id\":\"00015E\",\"object_height\":49.16,\"start_time\":1794215542.1132898}",
         "outlines": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_3h24m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
