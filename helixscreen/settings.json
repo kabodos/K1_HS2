@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"snowman - k1_PLA_2h13m.gcode\",\"job_id\":\"00015C\",\"object_height\":32.466,\"start_time\":1794195947.579034}",
-        "outlines": "{\"filename\":\"snowman - k1_PLA_2h13m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_36m18s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
