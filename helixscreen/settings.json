@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"MK_Cubo_PLA_21m16s.gcode\",\"job_id\":\"000157\",\"object_height\":22.0,\"start_time\":1794186545.3747234}",
-        "outlines": "{\"filename\":\"MK_Cubo_PLA_21m16s.gcode\",\"objects\":[]}"
+        "last_occupied": "{\"filename\":\"MK_Cubo_PLA_21m0s.gcode\",\"job_id\":\"000158\",\"object_height\":22.0,\"start_time\":1794186871.5241687}",
+        "outlines": "{\"filename\":\"MK_Cubo_PLA_21m0s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
