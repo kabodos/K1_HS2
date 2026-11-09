@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_3h24m.gcode\",\"job_id\":\"00015E\",\"object_height\":49.16,\"start_time\":1794215542.1132898}",
-        "outlines": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_3h24m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_2h30m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
