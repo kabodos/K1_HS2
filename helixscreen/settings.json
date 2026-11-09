@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_26m16s.gcode\",\"job_id\":\"000160\",\"object_height\":14.76,\"start_time\":1794249795.7185555}",
         "outlines": "{\"filename\":\"SantaKnittNoAMS_k1_PLA_26m16s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -369,20 +369,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 54.043888888711365
+            "used_h": 54.09249999982202
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 54.043888888711365
+            "used_h": 54.09249999982202
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 54.043888888711365
+            "used_h": 54.09249999982202
           }
         },
-        "total_h": 54.043888888711365
+        "total_h": 54.09249999982202
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
