@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_1m47s.gcode\",\"job_id\":\"000166\",\"object_height\":3.72,\"start_time\":1794338929.286935}",
         "outlines": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_1m47s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
