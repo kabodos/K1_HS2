@@ -254,8 +254,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_1h19m.gcode\",\"job_id\":\"000163\",\"object_height\":22.92,\"start_time\":1794302987.181225}",
-        "outlines": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_1h19m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_2h25m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
