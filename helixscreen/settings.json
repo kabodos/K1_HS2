@@ -254,7 +254,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2m44s.gcode\",\"job_id\":\"00016C\",\"object_height\":5.8,\"start_time\":1794384500.6875658}",
         "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2m44s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
