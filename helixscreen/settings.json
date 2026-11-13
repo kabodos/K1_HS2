@@ -11,8 +11,8 @@
     "drm_device": "",
     "gcode_preview_rate": {
       "board": "unknown/2c/2400bm/800x480/16bpp",
-      "rate": 19.432496068141948,
-      "version": "1.1.0-beta.17 (027e9f4)"
+      "rate": 18.162077082886764,
+      "version": "1.1.0-rc.1 (5304009)"
     },
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
