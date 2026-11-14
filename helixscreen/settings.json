@@ -255,8 +255,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"spoolrack glueless female_PETG_2h10m.gcode\",\"job_id\":\"000179\",\"object_height\":25.4,\"start_time\":1794672045.1576416}",
-        "outlines": "{\"filename\":\"spoolrack glueless female_PETG_2h10m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"spoolrack glueless male_PETG_2h10m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
