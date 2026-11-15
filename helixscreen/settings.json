@@ -256,7 +256,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"spoolrack glueless male_PETG_2h10m.gcode\",\"job_id\":\"00017C\",\"object_height\":25.4,\"start_time\":1794700106.41296}",
+        "last_occupied": "",
         "outlines": "{\"filename\":\"spoolrack glueless male_PETG_2h10m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
