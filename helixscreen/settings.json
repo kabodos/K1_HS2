@@ -257,7 +257,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"spoolrack glueless male_PETG_2h10m.gcode\",\"job_id\":\"000182\",\"object_height\":25.4,\"start_time\":1794764386.9195278}",
         "outlines": "{\"filename\":\"spoolrack glueless male_PETG_2h10m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -372,20 +372,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 119.34111111173304
+            "used_h": 119.42833333395667
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 119.34111111173304
+            "used_h": 119.42833333395667
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 119.34111111173304
+            "used_h": 119.42833333395667
           }
         },
-        "total_h": 119.34111111173304
+        "total_h": 119.42833333395667
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
