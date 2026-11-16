@@ -257,7 +257,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_2h12m.gcode\",\"job_id\":\"000184\",\"object_height\":31.56,\"start_time\":1794788595.563308}",
+        "last_occupied": "",
         "outlines": "{\"filename\":\"PAPA+NOEL+multipart_k1_PLA_2h12m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -372,20 +372,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 126.27111111184492
+            "used_h": 126.32750000073472
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 126.27111111184492
+            "used_h": 126.32750000073472
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 126.27111111184492
+            "used_h": 126.32750000073472
           }
         },
-        "total_h": 126.27111111184492
+        "total_h": 126.32750000073472
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
