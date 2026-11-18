@@ -260,7 +260,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "{\"filename\":\"filament guide e5pro_fix2_PLA_1h4m.gcode\",\"job_id\":\"000190\",\"object_height\":20.04,\"start_time\":1794959190.676208}",
-        "outlines": "{\"filename\":\"filament guide e5pro_fix2_PLA_1h4m.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"filament guide e5pro_fix3_PLA_1h12m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
