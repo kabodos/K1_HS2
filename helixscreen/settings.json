@@ -259,7 +259,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"filament guide e5pro_fix2_PLA_1h4m.gcode\",\"job_id\":\"000190\",\"object_height\":20.04,\"start_time\":1794959190.676208}",
+        "last_occupied": "{\"filename\":\"filament guide e5pro_fix3_PLA_1h12m.gcode\",\"job_id\":\"000191\",\"object_height\":20.04,\"start_time\":1794964796.5200274}",
         "outlines": "{\"filename\":\"filament guide e5pro_fix3_PLA_1h12m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -374,20 +374,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 145.30527777793353
+            "used_h": 145.37222222237563
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 145.30527777793353
+            "used_h": 145.37222222237563
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 145.30527777793353
+            "used_h": 145.37222222237563
           }
         },
-        "total_h": 145.30527777793353
+        "total_h": 145.37222222237563
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
