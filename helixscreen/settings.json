@@ -259,7 +259,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "",
+        "last_occupied": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_48m38s.gcode\",\"job_id\":\"000192\",\"object_height\":32.52,\"start_time\":1795026269.3040125}",
         "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_48m38s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
@@ -374,20 +374,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 146.1722222223476
+            "used_h": 146.21361111123505
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 146.1722222223476
+            "used_h": 146.21361111123505
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 146.1722222223476
+            "used_h": 146.21361111123505
           }
         },
-        "total_h": 146.1722222223476
+        "total_h": 146.21361111123505
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
