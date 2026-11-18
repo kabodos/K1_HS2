@@ -259,8 +259,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"filament guide e5pro_fix3_PLA_1h12m.gcode\",\"job_id\":\"000191\",\"object_height\":20.04,\"start_time\":1794964796.5200274}",
-        "outlines": "{\"filename\":\"filament guide e5pro_fix3_PLA_1h12m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_48m38s.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
