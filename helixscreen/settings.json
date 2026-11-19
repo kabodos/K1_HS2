@@ -259,7 +259,7 @@
     "default": {
       "bed_occupancy": {
         "last_occupied": "",
-        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2h6m.gcode\",\"objects\":[]}"
+        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2h46m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
