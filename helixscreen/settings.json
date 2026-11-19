@@ -259,8 +259,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_48m38s.gcode\",\"job_id\":\"000192\",\"object_height\":32.52,\"start_time\":1795026269.3040125}",
-        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_48m38s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2h29m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
@@ -374,20 +374,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 146.71361111121755
+            "used_h": 146.74833333343855
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 146.71361111121755
+            "used_h": 146.74833333343855
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 146.71361111121755
+            "used_h": 146.74833333343855
           }
         },
-        "total_h": 146.71361111121755
+        "total_h": 146.74833333343855
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
