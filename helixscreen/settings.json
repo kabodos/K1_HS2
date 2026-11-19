@@ -107,19 +107,6 @@
         "window": 1
       },
       {
-        "heating": 504,
-        "phases": {
-          "BED_MESH": 173,
-          "CLEANING": 76,
-          "HOMING": 19
-        },
-        "skipped": [],
-        "temp_bucket": 1,
-        "timestamp": 1794672399,
-        "total": 356,
-        "window": 1
-      },
-      {
         "heating": 506,
         "phases": {
           "BED_MESH": 169,
@@ -252,6 +239,18 @@
         "temp_bucket": 1,
         "timestamp": 1794965112,
         "total": 316,
+        "window": 1
+      },
+      {
+        "heating": 543,
+        "phases": {
+          "BED_MESH": 230,
+          "CLEANING": 86,
+          "HOMING": 16
+        },
+        "temp_bucket": 1,
+        "timestamp": 1795069629,
+        "total": 424,
         "window": 1
       }
     ]
@@ -540,10 +539,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.5548779368400574
+        "heat_rate": 0.3923059403896332
       },
       "heater_bed": {
-        "heat_rate": 18.7847900390625
+        "heat_rate": 24.289106369018555
       }
     }
   },
