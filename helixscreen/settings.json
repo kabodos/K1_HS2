@@ -258,8 +258,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"Cube_PLA_7m30s.gcode\",\"job_id\":\"000197\",\"object_height\":20.0,\"start_time\":1795120783.9743795}",
-        "outlines": "{\"filename\":\"Cube_PLA_7m30s.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_1h16m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
