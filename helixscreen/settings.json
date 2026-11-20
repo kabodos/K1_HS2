@@ -258,8 +258,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_1h16m.gcode\",\"job_id\":\"000198\",\"object_height\":30.44,\"start_time\":1795126945.6041992}",
-        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_1h16m.gcode\",\"objects\":[]}"
+        "last_occupied": "",
+        "outlines": "{\"filename\":\"RENARD+NOEL+multipart_k1_PLA_2h46m.gcode\",\"objects\":[]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
