@@ -60,9 +60,3 @@ frame_path = /usr/data/printer_data/frames/
 ffmpeg_binary_path = /opt/bin/ffmpeg
 snapshoturl = http://localhost:8080/?action=snapshot
 
-[update_manager helixscreen]
-type = web
-channel = beta
-repo = prestonbrown/helixscreen
-path = /usr/data/helixscreen
-
